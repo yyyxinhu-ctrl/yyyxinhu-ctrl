@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**yyyxinhu-ctrl/yyyxinhu-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 二次元内容创作与社群运营 (ACGN & Content Creation)
+深刻理解二次元/泛娱乐用户心理与流行文化，具备独立的内容选题、视觉设计与短视频剪辑运营能力：
+* 📱 **抖音账号数据**：累计发布 **40+ 优质短视频**，收获 **6,900+ 点赞**，具备稳定的爆款内容打造与社群互动经验。
+* 🎥 **谷子拍摄与展示**：
+  * 熟练掌握二次元周边（谷子/痛包/展台）的光影拍摄、置景摆盘与视觉呈现。
+  * 擅长捕捉谷子质感，配合治愈系/卡点 BGM 进行动态展示。
+* ✂️ **同人/角色视频剪辑**：
+  * 深耕同人/角色相关短视频创作，精通卡点、情绪渲染、音效搭配与字幕包装。
+  * 准确把控同人圈层情绪共鸣点，具备较高的完播率与互动率。
+---
+### 🌟 代表产出与数据一览
+| 模块 | 内容方向 | 核心能力 / 效果 | 视觉/链接 |
+| :--- | :--- | :--- | :--- |
+| 🎬 **短视频剪辑** | 橹穆同人/角色剪辑 | 节奏卡点、转场渲染、圈层情绪把控 | [抖音作品链接](2.07 复制打开抖音，看看【二十一日的作品】# 橹穆 拇指城啥意思# 图源网络侵删  https://v.douyin.com/9dyiNn--IJc/ wFH:/ :6pm G@I.VY 09/15) |
+| 📸 **谷子拍摄** | 谷子展示/美谷开箱 | 构图置景、光影质感、短视频展示 | [查看视频](5.33 复制打开抖音，看看【二十一日的图文作品】路遇萌物拼尽全力无法抵抗 # 七濑遥  https://v.douyin.com/LBah5xiJyHc/ :8pm U@l.ca IvS:/ 09/22) |
